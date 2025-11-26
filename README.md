@@ -7,7 +7,7 @@
 
 <!-- Profile Photo with Glow Effect -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/profile.jpg" 
+  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/Profile.jpg" 
        width="220" 
        style="border-radius: 20px; box-shadow: 0 0 25px #00eaff;">
 </p>
