@@ -51,25 +51,8 @@ I am a Machine Learning and Web Developer with expertise in AI automation and ch
 
 ---
 
-## ⚡ Animated GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abrazzaq02&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🐍 Animated Snake Contributions  
-<p align="center">
-  <img src="https://github.com/abrazzaq02/abrazzaq02/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
