@@ -1,56 +1,72 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm <strong>Abdul Razaque</strong> 👋</h1>
+<!-- Header Title -->
+<h1 align="center">
+  <strong>Abdul Razaque</strong>  
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Web+Developer;Chatbot+Engineer;AI+Automation+Specialist;Always+Learning+New+Skills" />
+</h1>
 
-<!-- Profile Photo -->
+<!-- Profile Photo with Glow Effect -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/profile.jpg" width="200" style="border-radius: 15px;">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A3FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Web+Developer;Chatbot+Engineer;AI+Automation+Enthusiast;Always+Learning+New+Skills">
+  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/profile.jpg" 
+       width="220" 
+       style="border-radius: 20px; box-shadow: 0 0 25px #00eaff;">
 </p>
 
 ---
 
-## 🔥 About Me
-I am a Machine Learning and Web Developer specializing in AI-powered applications and chatbot development. I enjoy converting complex problems into simple, automated, intelligent solutions.
+## 🎨 About Me
+I am a Machine Learning and Web Developer with expertise in AI automation and chatbot engineering. I enjoy building intelligent systems that simplify and automate complex tasks.
 
-- 💡 Passionate about **Machine Learning, AI Automation, Chatbots**
-- 🤖 Experienced with NLP, LLM-powered bots, and ML Pipelines  
-- 🌱 Currently learning **Deep Learning, LangChain, RAG Systems**
-- 🌍 Based on solving real-world problems through AI  
+- 💡 Focused on **ML, AI Pipelines, Chatbots & Automation**
+- 🤖 Working with NLP, LLMs, LangChain, and RAG  
+- 🚀 Passionate about applying AI to real-world challenges  
 - 📫 Email: **f23ari02@aror.edu.pk**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/abdul-razaque-744a782a1/**  
+- 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/abdul-razaque-744a782a1/)  
 
 ---
 
-## 🧠 Skills & Technologies
-
-### **Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-### **Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi" />
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" />
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://github.com/abrazzaq02/abrazzaq02/blob/main/assets/gradient-banner.gif" width="100%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🌟 Skills & Technologies  
+
+### ⚙️ **Machine Learning & AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+### 🌐 **Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi,nodejs" />
+</p>
+
+### 🛠️ **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postgres,linux" />
+</p>
+
+---
+
+## ⚡ Animated GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abrazzaq02&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abrazzaq02&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Animated Snake Contributions  
+<p align="center">
+  <img src="https://github.com/abrazzaq02/abrazzaq02/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -58,30 +74,43 @@ I am a Machine Learning and Web Developer specializing in AI-powered application
 ## 🚀 Featured Projects
 
 ### 🔹 **AutoML for Small Business**
-A fully automated ML system that handles preprocessing, feature engineering, model training, and evaluation—built for non-technical users.
+AI-driven automation of data preprocessing, feature engineering, model selection, tuning, and evaluation.
 
 ### 🔹 **AI Chatbot System**
-An NLP-powered chatbot capable of smart responses, custom dataset training, and conversational intelligence.
+Custom NLP chatbot with LLM, vector search, and RAG architecture.
 
 ### 🔹 **ML Web Dashboard**
-A modern dashboard for model training, prediction, and analytics through an interactive UI.
+Interactive dashboard for dataset upload, training, prediction, and visualization.
 
 ---
 
-## 🌍 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/abdul-razaque-744a782a1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="mailto:f23ari02@aror.edu.pk"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+## 🌈 Aesthetic Animated Separator
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-razaque-744a782a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="mailto:f23ari02@aror.edu.pk">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 ---
 
 ## 💬 Personal Quote
-> “AI is not just a tool — it’s the next chapter of human innovation.”
+> "AI is not just a tool — it's the next chapter of human innovation."
 
 ---
 
-## 🔁 Profile Visitors
+## 🔁 Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abrazzaq02&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abrazzaq02&label=Profile+Views&color=0affff&style=flat-square" />
 </p>
+
+---
