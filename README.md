@@ -53,12 +53,6 @@ I am a Machine Learning and Web Developer with expertise in AI automation and ch
 
 
 
-## 🐍 Animated Snake Contributions  
-<p align="center">
-  <img src="https://github.com/abrazzaq02/abrazzaq02/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
