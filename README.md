@@ -9,7 +9,10 @@
        width="220" 
        style="border-radius: 20px; box-shadow: 0 0 25px #00eaff;">
 </p>
-
+## 🔁 Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abrazzaq02&label=Profile+Views&color=0affff&style=flat-square" />
+</p>
 ---
 
 ## 🎨 About Me
