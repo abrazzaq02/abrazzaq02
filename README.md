@@ -5,14 +5,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/Profile.jpg" 
-       width="220" 
+  <img src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/photo1.jpg" 
+       width="180" 
        style="border-radius: 20px; box-shadow: 0 0 25px #00eaff;">
 </p>
-## 🔁 Profile Views  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abrazzaq02&label=Profile+Views&color=0affff&style=flat-square" />
-</p>
+
 ---
 
 ## 🎨 About Me
@@ -88,18 +85,16 @@ Interactive dashboard for dataset upload, training, prediction, and visualizatio
 
 ---
 
-## 📈 Animation View 🚀
+## 📊 My GitHub Activity (Animation View)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Abdul Razaque GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&rank_icon=github" alt="Abdul Razaque GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Abdul Razaque Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=vue-dark&hide_border=true" alt="Abdul Razaque Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrazzaq02&theme=vue-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  </p>
 
 ---
 
