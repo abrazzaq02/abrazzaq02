@@ -119,4 +119,11 @@ Interactive dashboard supporting dataset upload, training, prediction, and visua
 </p>
 
 ---
+## 🔁 Profile Views
+<p>
+  <img 
+    src="https://komarev.com/ghpvc/?username=abrazzaq02&label=Profile+Views&color=0affff&style=flat-square" 
+    width="150"
+  />
+</p>
 
