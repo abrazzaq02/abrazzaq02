@@ -1,11 +1,4 @@
-<!-- CENTERED NAME + TYPING ANIMATION -->
-<h1 align="center">
-  <strong>Abdul Razaque</strong>
-  <br>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Machine+Learning+Developer;Web+Developer;Chatbot+Engineer;AI+Automation+Specialist;Always+Learning+New+Skills" 
-  />
-</h1>
+
 
 <!-- PROFILE IMAGE (REDUCED SIZE + SOFT SHADOW) -->
 <p align="center">
