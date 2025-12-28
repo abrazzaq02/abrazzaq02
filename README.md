@@ -1,17 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">
-  <strong>Abdul Razaque</strong>
-  <br/>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;AI+Automation+Specialist;Web+Developer;Open+Source+Contributor;Always+Learning+and+Building" 
-  />
-</h1>
+<h1 align="center">Abdul Razaque</h1>
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/abrazzaq02/abrazzaq02/main/photo1.jpg"
-    width="150"
-    style="border-radius: 18px; box-shadow: 0 0 25px #00eaff;"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Student;AI+and+Data+Science+Enthusiast;ML+Internship+Candidate;Freelance+ML+Developer;Always+Learning+and+Building" 
   />
 </p>
 
@@ -21,53 +13,59 @@
 
 ---
 
-## 👨‍💻 About Me
-I am a **Machine Learning and Web Development student** focused on building **real-world, data-driven, and automated systems**.
+## 🎯 Career Focus (Internship-Ready)
+I am a **Machine Learning–focused Computer Science student** with hands-on experience in building **data-driven, automated, and business-oriented ML solutions**.
 
-- Improving skills in **Data Structures & Algorithms**
-- Strong interest in **ML, AI pipelines, automation, and analytics**
-- Beginner-friendly **open-source contributor**
-- Enjoy turning **ideas into working software**
+- Strong foundation in **Machine Learning, Python, and Data Analysis**
+- Experience with **end-to-end ML pipelines**
+- Actively seeking **Machine Learning / Data Science internships**
+- Fiverr-ready ML developer delivering practical solutions
 - Comfortable with **Git, GitHub, and collaborative workflows**
 
 📧 **Email:** f23ari02@aror.edu.pk  
-🔗 **LinkedIn:** [Abdul Razaque](https://www.linkedin.com/in/abdul-razaque-744a782a1/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/abdul-razaque-744a782a1/
 
 ---
 
-## 🌐 Connect With Me
+## 🏷️ Professional Badges
 <p align="left">
-  <a href="https://facebook.com/Razzaq khan"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/razzaq_khan7"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/abdul-razaque-744a782a1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://medium.com/@razavkog"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
-  <a href="https://x.com/@razaq303"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://youtube.com/@vlog_by_raza"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="mailto:f23ari02@aror.edu.pk"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <img src="https://img.shields.io/badge/Role-ML%20Student-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Primary-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Freelancer-Fiverr-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Technical Skills
 
 ### 🤖 Machine Learning & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,keras,opencv" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib" height="42"/>
 </p>
 
-### 🌐 Web Development
+**Core Competencies**
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Model Selection  
+- Model Evaluation & Optimization  
+- Business-focused ML use cases  
+
+---
+
+### 🌐 ML Deployment & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi,nodejs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,html,css,js" height="42"/>
 </p>
 
-### 🛠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php" height="42"/>
-</p>
+- ML APIs & lightweight dashboards  
+- Data visualization & reporting  
 
-### ⚙️ Tools & DevOps
+---
+
+### ⚙️ Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,pycharm,mysql,postgres" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,linux,vscode,mysql" height="42"/>
 </p>
 
 ---
@@ -78,21 +76,52 @@ I am a **Machine Learning and Web Development student** focused on building **re
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 ### 🔹 AutoML for Small Businesses
-Automated ML pipeline handling preprocessing, feature engineering, model selection, training, and evaluation for business datasets.
+End-to-end **automated ML pipeline** for non-technical users.
 
-### 🔹 AI Chatbot System
-NLP-based chatbot with embeddings, vector search, and retrieval-augmented generation.
+- Data preprocessing & feature engineering  
+- Automatic model training and comparison  
+- Classification & regression support  
+- Business use cases (sales, churn, forecasting)
+
+---
 
 ### 🔹 ML Web Dashboard
-Interactive dashboard for dataset upload, model training, predictions, and visualization.
+- Dataset upload  
+- Model training & evaluation  
+- Prediction visualization  
+
+---
+
+### 🔹 NLP & AI Foundations
+- Text classification  
+- Recommendation logic  
+- Chatbot systems  
+
+---
+
+## 💼 Fiverr Service Alignment
+My GitHub projects directly support my Fiverr services:
+
+- ML model development in Python  
+- Data analysis & prediction systems  
+- Sales forecasting & business analytics  
+- Model evaluation and optimization  
+
+---
+
+## 💬 Personal Statement
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=I+focus+on+applying+machine+learning+to+real-world+problems;Not+just+building+models%2C+but+delivering+impactful+solutions" 
+  />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github"
@@ -113,10 +142,11 @@ Interactive dashboard for dataset upload, model training, predictions, and visua
 
 ---
 
-## 💬 Personal Quote
-> *“AI is not just a tool — it is the next chapter of human innovation.”*
-
----
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-razaque-744a782a1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:f23ari02@aror.edu.pk"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=abrazzaq02&icon=0&color=0"/>
