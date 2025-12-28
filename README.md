@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Abdul Razaque</h1>
+<h1 align="center">I'm Abdul Razaque Student of Artificial Intelligence </h1>
 
 <p align="center">
   <img 
@@ -121,26 +121,7 @@ My GitHub projects directly support my Fiverr services:
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github"
-    width="45%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=vue-dark&hide_border=true"
-    width="45%"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abrazzaq02&theme=vue-dark&hide_border=true"
-    width="70%"
-  />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
