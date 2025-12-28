@@ -13,12 +13,12 @@
 
 ---
 
-## 🎯 Career Focus (Internship-Ready)
-I am a **Machine Learning–focused Computer Science student** with hands-on experience in building **data-driven, automated, and business-oriented ML solutions**.
+## 🎯 Career Focus 
+I am a **Machine Learning–focused AI student** with hands-on experience in building **data-driven, automated, and business-oriented ML solutions**.
 
 - Strong foundation in **Machine Learning, Python, and Data Analysis**
 - Experience with **end-to-end ML pipelines**
-- Actively seeking **Machine Learning / Data Science internships**
+- Actively seeking **Machine Learning / Data Science**
 - Fiverr-ready ML developer delivering practical solutions
 - Comfortable with **Git, GitHub, and collaborative workflows**
 
@@ -76,24 +76,6 @@ I am a **Machine Learning–focused Computer Science student** with hands-on exp
 
 ---
 
-## 🚀 Highlighted Projects
-
-### 🔹 AutoML for Small Businesses
-End-to-end **automated ML pipeline** for non-technical users.
-
-- Data preprocessing & feature engineering  
-- Automatic model training and comparison  
-- Classification & regression support  
-- Business use cases (sales, churn, forecasting)
-
----
-
-### 🔹 ML Web Dashboard
-- Dataset upload  
-- Model training & evaluation  
-- Prediction visualization  
-
----
 
 ### 🔹 NLP & AI Foundations
 - Text classification  
