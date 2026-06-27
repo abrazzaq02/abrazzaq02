@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Razaque&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%20Student%20%7C%20ML%20Engineer%20%7C%20Freelance%20Dev&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
+
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%93%8A+Data+Science+%26+AI+Builder;%F0%9F%9A%80+End-to-End+ML+Pipelines;%F0%9F%8C%9F+Open+to+Internships+%26+Freelance" alt="Typing SVG" />
 
