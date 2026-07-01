@@ -4,6 +4,9 @@
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%93%8A+Data+Science+%26+AI+Builder;%F0%9F%9A%80+End-to-End+ML+Pipelines;%F0%9F%8C%9F+Open+to+Internships+%26+Freelance" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=06FFA5&center=true&vCenter=true&width=600&lines=%22Don%27t+just+build+models+%E2%80%94+deliver+measurable+impact%22" alt="Tagline"/>
 
