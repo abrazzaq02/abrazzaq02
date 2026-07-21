@@ -28,8 +28,8 @@ class AbdulRazaque:
     name        = "Abdul Razaque"
     role        = "AI Student · ML Engineer · Freelance Developer"
     university  = "AROR University of Science & IT — B.Sc. Artificial Intelligence"
-    location    = "Punjab, Pakistan 🇵🇰"
-    interests   = ["Machine Learning", "Deep Learning", "NLP", "Business AI"]
+    location    = "Sukkur, Sindh, Pakistan"
+    interests   = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
     goals       = ["ML Internship", "Production ML Systems", "Fiverr ML Services"]
     philosophy  = "Don't just build models — deliver measurable impact."
 ```
