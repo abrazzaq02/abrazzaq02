@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Razaque&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%20Student%20%7C%20ML%20Engineer%20%7C%20Freelance%20Dev&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
