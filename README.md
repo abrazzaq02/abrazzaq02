@@ -27,7 +27,7 @@
 class AbdulRazaque:
     name        = "Abdul Razaque"
     role        = "AI Student · ML Engineer · Freelance Developer"
-    university  = "AROR University of Art Architecture Design And Heritage Sukkur"
+    university  = "Aror University of Art Architecture Design And Heritage Sukkur"
     location    = "Sukkur, Sindh, Pakistan"
     interests   = ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
     goals       = ["ML Internship", "Production ML Systems", "Fiverr ML Services"]
