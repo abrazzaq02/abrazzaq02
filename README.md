@@ -128,7 +128,7 @@ me = AbdulRazaque()
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=c084fc&ring_color=fbbf24&text_color=e6edf3&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abrazzaq02&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=c084fc&ring_color=fbbf24&text_color=e6edf3&rank_icon=github"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrazzaq02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=abrazzaq02&theme=dark&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=fbbf24" width="60%"/>
